@@ -8,7 +8,7 @@ This repository is dedicated to solving Data Structures and Algorithms (DSA) pro
 ## Branches
 - **main**: Default branch for general updates.
 - **master**: Legacy branch, currently inactive.
-- **[DSA-Must-Do-Question]([#dsa-must-do-question](https://github.com/abhi8127/DSA/tree/DSA-Must-Do-Question))**: Active branch where I am pushing code for essential DSA problems.
+- **[DSA-Must-Do-Question](https://github.com/abhi8127/DSA/tree/DSA-Must-Do-Question)**: Active branch where I am pushing code for essential DSA problems.
 
 ## Problems Solved (in DSA-Must-Do-Question branch)
 - **Check for Prime Number**: Determines if a given number is prime.
