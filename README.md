@@ -11,10 +11,10 @@ This repository is dedicated to solving Data Structures and Algorithms (DSA) pro
 - **[DSA-Must-Do-Question](https://github.com/abhi8127/DSA/tree/DSA-Must-Do-Question)**: Active branch where I am pushing code for essential DSA problems.
 
 ## Problems Solved (in DSA-Must-Do-Question branch)
-- **Check for Prime Number**: Determines if a given number is prime.
-- **Check for Anagram**: Verifies if two strings are anagrams.
-- **Check for Palindrome**: Checks if a string is a palindrome.
-- **FizzBuzz**: Classic problem to print numbers with specific conditions.
+- **Check for Prime Number**
+- **Check for Anagram**
+- **Check for Palindrome**
+- **FizzBuzz**
 
 For detailed solutions, switch to the **DSA-Must-Do-Question** branch.
 
